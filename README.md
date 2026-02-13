@@ -188,5 +188,4 @@ A > B ? Sim : Não → Sim
 
 **Rafaela Oliveira**💙
 
-
-Projeto educacional para prática de operadores e lógica em JavaScript.
+Estudante de Desenvolvimento de Sistemas
