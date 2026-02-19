@@ -22,12 +22,19 @@ Facilitar o aprendizado dos principais operadores do JavaScript através de:
 ## 📌 Funcionalidades
 
 ✅ Operações aritméticas completas
+
 ✅ Operadores de atribuição simulados
+
 ✅ Comparações lógicas e relacionais
+
 ✅ Operadores booleanos
+
 ✅ Incremento e decremento
+
 ✅ Operador ternário
+
 ✅ Validação de entrada numérica
+
 ✅ Exibição em painel organizado em grade
 
 ---
